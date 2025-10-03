@@ -1,0 +1,2234 @@
+[
+    {
+        "id": "materia_80_1",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/fec945ec-228c-4fc3-abd7-e20785bc1eb3/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_2",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/fec945ec-228c-4fc3-abd7-e20785bc1eb3/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_3",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/a8ef6fe6-a4b0-431a-b552-b1f11eb1696f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_4",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/a8ef6fe6-a4b0-431a-b552-b1f11eb1696f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_5",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/7a363c6a-623d-41f4-92e5-53ff0fb0e256/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_6",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/7a363c6a-623d-41f4-92e5-53ff0fb0e256/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_7",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/801d77cc-51aa-4420-95a9-eafa616a81b2/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_8",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/801d77cc-51aa-4420-95a9-eafa616a81b2/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_9",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0f096d0f-0136-4f77-a3e0-96cac7a20c44/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_10",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0f096d0f-0136-4f77-a3e0-96cac7a20c44/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_11",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/e916fa4f-83a3-4f19-a0da-04718d873ca7/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_12",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/e916fa4f-83a3-4f19-a0da-04718d873ca7/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_13",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/af58181c-4aee-4dae-b532-93a2b28be32c/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_14",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/af58181c-4aee-4dae-b532-93a2b28be32c/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_15",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0f096d0f-0136-4f77-a3e0-96cac7a20c44/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_16",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0f096d0f-0136-4f77-a3e0-96cac7a20c44/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_17",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/e916fa4f-83a3-4f19-a0da-04718d873ca7/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_18",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/e916fa4f-83a3-4f19-a0da-04718d873ca7/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_19",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/af58181c-4aee-4dae-b532-93a2b28be32c/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_20",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/af58181c-4aee-4dae-b532-93a2b28be32c/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_21",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0f096d0f-0136-4f77-a3e0-96cac7a20c44/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_22",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0f096d0f-0136-4f77-a3e0-96cac7a20c44/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_23",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/e916fa4f-83a3-4f19-a0da-04718d873ca7/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_24",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/e916fa4f-83a3-4f19-a0da-04718d873ca7/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_25",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/af58181c-4aee-4dae-b532-93a2b28be32c/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_26",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/af58181c-4aee-4dae-b532-93a2b28be32c/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_27",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0f096d0f-0136-4f77-a3e0-96cac7a20c44/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_28",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0f096d0f-0136-4f77-a3e0-96cac7a20c44/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_29",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/e916fa4f-83a3-4f19-a0da-04718d873ca7/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_30",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/e916fa4f-83a3-4f19-a0da-04718d873ca7/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_31",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/af58181c-4aee-4dae-b532-93a2b28be32c/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_32",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/af58181c-4aee-4dae-b532-93a2b28be32c/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_33",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/fb6e0f63-b123-4fd3-aa23-766b6668b7ba/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_34",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/fb6e0f63-b123-4fd3-aa23-766b6668b7ba/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_35",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/fe9aa63e-2271-4ace-9e53-fd9fc1d53153/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_36",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/fe9aa63e-2271-4ace-9e53-fd9fc1d53153/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_37",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2b394477-f8f0-439f-95d3-a1ef47cc464d/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_38",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2b394477-f8f0-439f-95d3-a1ef47cc464d/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_39",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/fb6e0f63-b123-4fd3-aa23-766b6668b7ba/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_40",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/fb6e0f63-b123-4fd3-aa23-766b6668b7ba/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_41",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/fe9aa63e-2271-4ace-9e53-fd9fc1d53153/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_42",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/fe9aa63e-2271-4ace-9e53-fd9fc1d53153/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_43",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2b394477-f8f0-439f-95d3-a1ef47cc464d/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_44",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2b394477-f8f0-439f-95d3-a1ef47cc464d/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_45",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/6548ecff-1203-4f75-b901-8bad39487fb1/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_46",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/6548ecff-1203-4f75-b901-8bad39487fb1/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_47",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/b99db9a3-41a6-40f1-bbcb-182f5d8a85e0/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_48",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/b99db9a3-41a6-40f1-bbcb-182f5d8a85e0/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_49",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2db44169-b91d-48b5-a1cb-ce26fe7de81c/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_50",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2db44169-b91d-48b5-a1cb-ce26fe7de81c/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_51",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/f536b445-7542-4186-a309-d09ea87e61de/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_52",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/f536b445-7542-4186-a309-d09ea87e61de/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_53",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/cf1d848e-a1aa-4c89-89d3-1cde8e454be8/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_54",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/cf1d848e-a1aa-4c89-89d3-1cde8e454be8/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_55",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3a76bf01-376a-4580-9e30-2ea5bc7204b4/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_80_56",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3a76bf01-376a-4580-9e30-2ea5bc7204b4/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=80",
+        "subject": "materia_80"
+    },
+    {
+        "id": "materia_79_1",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/88503e80-fa31-400e-98de-f7bd6763f05e/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_2",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/88503e80-fa31-400e-98de-f7bd6763f05e/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_3",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/a1778604-9b22-4dab-aff2-85af60f58746/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_4",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/a1778604-9b22-4dab-aff2-85af60f58746/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_5",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/add6b6ed-2e6a-4f93-a969-5ea4d614876f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_6",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/add6b6ed-2e6a-4f93-a969-5ea4d614876f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_7",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/1ddc173a-e513-4713-a7b6-04faca662779/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_8",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/1ddc173a-e513-4713-a7b6-04faca662779/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_9",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d8eb5388-7153-4180-a313-a06b916326f3/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_10",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d8eb5388-7153-4180-a313-a06b916326f3/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_11",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d8eb5388-7153-4180-a313-a06b916326f3/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_12",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d8eb5388-7153-4180-a313-a06b916326f3/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_13",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d8eb5388-7153-4180-a313-a06b916326f3/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_14",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d8eb5388-7153-4180-a313-a06b916326f3/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_15",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d8eb5388-7153-4180-a313-a06b916326f3/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_16",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d8eb5388-7153-4180-a313-a06b916326f3/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_17",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d8eb5388-7153-4180-a313-a06b916326f3/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_18",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d8eb5388-7153-4180-a313-a06b916326f3/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_19",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d8eb5388-7153-4180-a313-a06b916326f3/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_79_20",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d8eb5388-7153-4180-a313-a06b916326f3/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=79",
+        "subject": "materia_79"
+    },
+    {
+        "id": "materia_73_1",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3a10c883-7ae3-4e4a-97db-2af3807eba03/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_2",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3a10c883-7ae3-4e4a-97db-2af3807eba03/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_3",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/898aaf7a-2eaa-4f1c-aee1-b756d3475051/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_4",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/898aaf7a-2eaa-4f1c-aee1-b756d3475051/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_5",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/1e2c47aa-c5d8-42ff-bda4-d20665c7ab93/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_6",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/1e2c47aa-c5d8-42ff-bda4-d20665c7ab93/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_7",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3345250e-3739-4499-b7c8-b68c3864f32b/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_8",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3345250e-3739-4499-b7c8-b68c3864f32b/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_9",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_10",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_11",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_12",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_13",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_14",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_15",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_16",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_17",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_18",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_19",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_20",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_21",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_22",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_23",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_24",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_25",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_26",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_27",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_28",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_29",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_30",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_31",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_32",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_33",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_34",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_35",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_36",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_37",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_38",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_39",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_40",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_41",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_42",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_43",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_44",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_45",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_46",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_47",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_48",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_49",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_50",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_51",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/de5d9f33-ed99-4a0a-a1b1-5aab75c54238/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_52",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/de5d9f33-ed99-4a0a-a1b1-5aab75c54238/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_53",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/de5d9f33-ed99-4a0a-a1b1-5aab75c54238/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_54",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/de5d9f33-ed99-4a0a-a1b1-5aab75c54238/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_55",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/de5d9f33-ed99-4a0a-a1b1-5aab75c54238/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_56",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/de5d9f33-ed99-4a0a-a1b1-5aab75c54238/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_57",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/de5d9f33-ed99-4a0a-a1b1-5aab75c54238/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_73_58",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/de5d9f33-ed99-4a0a-a1b1-5aab75c54238/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=73",
+        "subject": "materia_73"
+    },
+    {
+        "id": "materia_140_1",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f99d2e8-62af-4ccc-b9d1-71ed266a8b1a/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_2",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f99d2e8-62af-4ccc-b9d1-71ed266a8b1a/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_3",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/39d97afb-ea9b-4cf1-abfc-63e25de8406c/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_4",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/39d97afb-ea9b-4cf1-abfc-63e25de8406c/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_5",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/7c886c86-1e17-4b3f-abd0-0248246c00ee/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_6",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/7c886c86-1e17-4b3f-abd0-0248246c00ee/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_7",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/6ebfcdab-284b-4d6d-9e18-844e9e0b57f4/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_8",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/6ebfcdab-284b-4d6d-9e18-844e9e0b57f4/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_9",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/38774fcf-d436-42d8-8916-b678921ec442/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_10",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/38774fcf-d436-42d8-8916-b678921ec442/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_11",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0bbc91e0-4843-4dbb-b68f-97ee23bdcfc9/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_12",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0bbc91e0-4843-4dbb-b68f-97ee23bdcfc9/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_13",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/490f0e8c-52bc-4df9-bcc1-f4a14192e470/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_14",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/490f0e8c-52bc-4df9-bcc1-f4a14192e470/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_15",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/5c10e2e4-6c1a-41d1-a1bc-fe2d01c9c093/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_16",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/5c10e2e4-6c1a-41d1-a1bc-fe2d01c9c093/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_17",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2b5dd617-a120-4259-b9bf-f62b768c7690/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_18",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2b5dd617-a120-4259-b9bf-f62b768c7690/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_19",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0bbc91e0-4843-4dbb-b68f-97ee23bdcfc9/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_20",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0bbc91e0-4843-4dbb-b68f-97ee23bdcfc9/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_21",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/490f0e8c-52bc-4df9-bcc1-f4a14192e470/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_22",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/490f0e8c-52bc-4df9-bcc1-f4a14192e470/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_23",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/5c10e2e4-6c1a-41d1-a1bc-fe2d01c9c093/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_24",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/5c10e2e4-6c1a-41d1-a1bc-fe2d01c9c093/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_25",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2b5dd617-a120-4259-b9bf-f62b768c7690/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_26",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2b5dd617-a120-4259-b9bf-f62b768c7690/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_27",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0bbc91e0-4843-4dbb-b68f-97ee23bdcfc9/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_28",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0bbc91e0-4843-4dbb-b68f-97ee23bdcfc9/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_29",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/490f0e8c-52bc-4df9-bcc1-f4a14192e470/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_30",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/490f0e8c-52bc-4df9-bcc1-f4a14192e470/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_31",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/5c10e2e4-6c1a-41d1-a1bc-fe2d01c9c093/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_32",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/5c10e2e4-6c1a-41d1-a1bc-fe2d01c9c093/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_33",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2b5dd617-a120-4259-b9bf-f62b768c7690/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_34",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2b5dd617-a120-4259-b9bf-f62b768c7690/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_35",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0bbc91e0-4843-4dbb-b68f-97ee23bdcfc9/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_36",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0bbc91e0-4843-4dbb-b68f-97ee23bdcfc9/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_37",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/490f0e8c-52bc-4df9-bcc1-f4a14192e470/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_38",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/490f0e8c-52bc-4df9-bcc1-f4a14192e470/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_39",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/5c10e2e4-6c1a-41d1-a1bc-fe2d01c9c093/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_40",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/5c10e2e4-6c1a-41d1-a1bc-fe2d01c9c093/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_41",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2b5dd617-a120-4259-b9bf-f62b768c7690/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_42",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2b5dd617-a120-4259-b9bf-f62b768c7690/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_43",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/54a5eead-551b-4687-9470-b310c16b93f0/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_44",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/54a5eead-551b-4687-9470-b310c16b93f0/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_45",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/5c146c5c-2653-4197-90b3-3ef6ce01c98a/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_46",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/5c146c5c-2653-4197-90b3-3ef6ce01c98a/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_47",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/fa56dd76-850c-4173-9194-2e43a2578d1d/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_48",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/fa56dd76-850c-4173-9194-2e43a2578d1d/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_49",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/f839c1d3-f4fe-49fa-bc31-dcce74564a99/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_50",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/f839c1d3-f4fe-49fa-bc31-dcce74564a99/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_51",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/54a5eead-551b-4687-9470-b310c16b93f0/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_52",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/54a5eead-551b-4687-9470-b310c16b93f0/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_53",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/5c146c5c-2653-4197-90b3-3ef6ce01c98a/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_54",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/5c146c5c-2653-4197-90b3-3ef6ce01c98a/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_55",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/fa56dd76-850c-4173-9194-2e43a2578d1d/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_56",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/fa56dd76-850c-4173-9194-2e43a2578d1d/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_57",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/f839c1d3-f4fe-49fa-bc31-dcce74564a99/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_140_58",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/f839c1d3-f4fe-49fa-bc31-dcce74564a99/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=140",
+        "subject": "materia_140"
+    },
+    {
+        "id": "materia_78_1",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0e6236e7-c42e-456e-9f2a-2c81ed71a0d5/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_2",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/0e6236e7-c42e-456e-9f2a-2c81ed71a0d5/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_3",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2c65f27b-e2c0-4c54-9a6e-55763bb12dd6/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_4",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/2c65f27b-e2c0-4c54-9a6e-55763bb12dd6/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_5",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/267f182c-76c7-4e41-943c-98874d076163/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_6",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/267f182c-76c7-4e41-943c-98874d076163/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_7",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/8b9446bc-c644-4972-a4c7-af63acfa35c6/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_8",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/8b9446bc-c644-4972-a4c7-af63acfa35c6/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_9",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_10",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_11",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_12",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_13",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_14",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_15",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_16",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_17",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_18",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_19",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_20",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_21",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_22",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_23",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_24",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_25",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_26",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_27",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_28",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_29",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_30",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_31",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_32",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_33",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_34",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_35",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_36",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_37",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_38",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_39",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_40",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_41",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_42",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_43",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_44",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_45",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_46",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_47",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_48",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_49",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_50",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_51",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/8a1d11aa-0e2b-49ad-b1fa-d013da38e732/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_52",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/8a1d11aa-0e2b-49ad-b1fa-d013da38e732/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_53",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/8a1d11aa-0e2b-49ad-b1fa-d013da38e732/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_54",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/8a1d11aa-0e2b-49ad-b1fa-d013da38e732/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_55",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/8a1d11aa-0e2b-49ad-b1fa-d013da38e732/1/viewscorm.jsp?.vi=file",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    },
+    {
+        "id": "materia_78_56",
+        "source_seed": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "url": "https://edea.juntadeandalucia.es/bancorecursos/items/8a1d11aa-0e2b-49ad-b1fa-d013da38e732/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true",
+        "link_text": "",
+        "inferred_type": "scorm_package",
+        "referer_origin": "https://www.juntadeandalucia.es/educacion/permanente/materiales/index.php?etapa=6&materia=78",
+        "subject": "materia_78"
+    }
+]

@@ -1,0 +1,699 @@
+[*] Found 5 subjects to process.
+
+========================================
+[*] Starting processing for subject: Biologia
+========================================
+
+--- Processing resource 1/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/3a10c883-7ae3-4e4a-97db-2af3807eba03/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Biologia/resource_1/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_1.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 2/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/898aaf7a-2eaa-4f1c-aee1-b756d3475051/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Biologia/resource_2/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_2.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 3/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/1e2c47aa-c5d8-42ff-bda4-d20665c7ab93/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Biologia/resource_3/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_3.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 4/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/3345250e-3739-4499-b7c8-b68c3864f32b/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Biologia/resource_4/ODE-7a7ac22a-b3ed-3a16-8b5b-f511a78182e5/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_4.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 5/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Biologia/resource_5/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_5.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 6/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Biologia/resource_6/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_6.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 7/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Biologia/resource_7/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_7.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 8/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/de5d9f33-ed99-4a0a-a1b1-5aab75c54238/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Biologia/resource_8/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_8.pdf
+  [+] Extracted EPUB content.
+
+[*] Finalizing files for subject: Biologia
+[!!!] FAILED to save final PDF for Biologia. Error: 'Outline' object has no attribute 'Root'
+  [SUCCESS] Saved final EPUB: final_deliverables/PAU_Biologia_CREA.epub
+  [+] Cleaned up temporary files for Biologia.
+
+========================================
+[*] Starting processing for subject: Comentario_de_texto
+========================================
+
+--- Processing resource 1/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/3f99d2e8-62af-4ccc-b9d1-71ed266a8b1a/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Comentario_de_texto/resource_1/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_1.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 2/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/39d97afb-ea9b-4cf1-abfc-63e25de8406c/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Comentario_de_texto/resource_2/ODE-22752101-a965-3d58-ab9b-e36820362219/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_2.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 3/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/7c886c86-1e17-4b3f-abd0-0248246c00ee/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Comentario_de_texto/resource_3/ODE-0bf2a98f-7cbb-3a94-b56c-f9e59c1748f6/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_3.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 4/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/6ebfcdab-284b-4d6d-9e18-844e9e0b57f4/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Comentario_de_texto/resource_4/ODE-22752101-a965-3d58-ab9b-e36820362219/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_4.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 5/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/38774fcf-d436-42d8-8916-b678921ec442/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Comentario_de_texto/resource_5/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_5.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 6/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/0bbc91e0-4843-4dbb-b68f-97ee23bdcfc9/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Comentario_de_texto/resource_6/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_6.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 7/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/490f0e8c-52bc-4df9-bcc1-f4a14192e470/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Comentario_de_texto/resource_7/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_7.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 8/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/5c10e2e4-6c1a-41d1-a1bc-fe2d01c9c093/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Comentario_de_texto/resource_8/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_8.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 9/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/2b5dd617-a120-4259-b9bf-f62b768c7690/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Comentario_de_texto/resource_9/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_9.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 10/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/54a5eead-551b-4687-9470-b310c16b93f0/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Comentario_de_texto/resource_10/ODE-c35cafff-7cfa-358d-9dec-11b4f19f7ed8/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_10.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 11/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/5c146c5c-2653-4197-90b3-3ef6ce01c98a/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Comentario_de_texto/resource_11/ODE-6059b495-89d6-3129-b2a3-c482f8d96071/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_11.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 12/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/fa56dd76-850c-4173-9194-2e43a2578d1d/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Comentario_de_texto/resource_12/ODE-99ebc15c-2d49-3cf6-a52e-9c20ddb55336/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_12.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 13/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/f839c1d3-f4fe-49fa-bc31-dcce74564a99/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Comentario_de_texto/resource_13/ODE-c44e8aec-7c1f-3686-8ed5-faaebafd4bec/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_13.pdf
+  [+] Extracted EPUB content.
+
+[*] Finalizing files for subject: Comentario_de_texto
+[!!!] FAILED to save final PDF for Comentario_de_texto. Error: 'Outline' object has no attribute 'Root'
+  [SUCCESS] Saved final EPUB: final_deliverables/PAU_Comentario_de_texto_CREA.epub
+  [+] Cleaned up temporary files for Comentario_de_texto.
+
+========================================
+[*] Starting processing for subject: Ingles
+========================================
+
+--- Processing resource 1/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/0e6236e7-c42e-456e-9f2a-2c81ed71a0d5/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Ingles/resource_1/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_1.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 2/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/2c65f27b-e2c0-4c54-9a6e-55763bb12dd6/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Ingles/resource_2/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_2.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 3/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/267f182c-76c7-4e41-943c-98874d076163/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Ingles/resource_3/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_3.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 4/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/8b9446bc-c644-4972-a4c7-af63acfa35c6/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Ingles/resource_4/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_4.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 5/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Ingles/resource_5/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_5.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 6/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Ingles/resource_6/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_6.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 7/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Ingles/resource_7/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_7.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 8/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/8a1d11aa-0e2b-49ad-b1fa-d013da38e732/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Ingles/resource_8/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_8.pdf
+  [+] Extracted EPUB content.
+
+[*] Finalizing files for subject: Ingles
+[!!!] FAILED to save final PDF for Ingles. Error: 'Outline' object has no attribute 'Root'
+  [SUCCESS] Saved final EPUB: final_deliverables/PAU_Ingles_CREA.epub
+  [+] Cleaned up temporary files for Ingles.
+
+========================================
+[*] Starting processing for subject: Lengua_Castellana
+========================================
+
+--- Processing resource 1/5 for Lengua_Castellana ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/88503e80-fa31-400e-98de-f7bd6763f05e/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Lengua_Castellana/resource_1/index.html
+  [+] Rendered PDF page: temp_processing/Lengua_Castellana/page_1.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 2/5 for Lengua_Castellana ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/a1778604-9b22-4dab-aff2-85af60f58746/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Lengua_Castellana/resource_2/index.html
+  [+] Rendered PDF page: temp_processing/Lengua_Castellana/page_2.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 3/5 for Lengua_Castellana ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/add6b6ed-2e6a-4f93-a969-5ea4d614876f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Lengua_Castellana/resource_3/index.html
+  [+] Rendered PDF page: temp_processing/Lengua_Castellana/page_3.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 4/5 for Lengua_Castellana ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/1ddc173a-e513-4713-a7b6-04faca662779/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Lengua_Castellana/resource_4/ODE-0877e789-9673-31e1-a7ed-dd8f328262a4/index.html
+  [+] Rendered PDF page: temp_processing/Lengua_Castellana/page_4.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 5/5 for Lengua_Castellana ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/d8eb5388-7153-4180-a313-a06b916326f3/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Lengua_Castellana/resource_5/ODE-c44e8aec-7c1f-3686-8ed5-faaebafd4bec/index.html
+  [+] Rendered PDF page: temp_processing/Lengua_Castellana/page_5.pdf
+  [+] Extracted EPUB content.
+
+[*] Finalizing files for subject: Lengua_Castellana
+[!!!] FAILED to save final PDF for Lengua_Castellana. Error: 'Outline' object has no attribute 'Root'
+  [SUCCESS] Saved final EPUB: final_deliverables/PAU_Lengua_Castellana_CREA.epub
+  [+] Cleaned up temporary files for Lengua_Castellana.
+
+========================================
+[*] Starting processing for subject: Matematicas
+========================================
+
+--- Processing resource 1/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/fec945ec-228c-4fc3-abd7-e20785bc1eb3/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temporary path for rendering: temp_processing/Matematicas/resource_1/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_1.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 2/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/a8ef6fe6-a4b0-431a-b552-b1f11eb1696f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+[*] Found 8 resources for subject: Biologia
+
+========================================
+[*] Starting processing for subject: Biologia
+========================================
+
+--- Processing resource 1/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/3a10c883-7ae3-4e4a-97db-2af3807eba03/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Biologia/res_1/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_1.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 2/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/898aaf7a-2eaa-4f1c-aee1-b756d3475051/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Biologia/res_2/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_2.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 3/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/1e2c47aa-c5d8-42ff-bda4-d20665c7ab93/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Biologia/res_3/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_3.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 4/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/3345250e-3739-4499-b7c8-b68c3864f32b/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Biologia/res_4/ODE-7a7ac22a-b3ed-3a16-8b5b-f511a78182e5/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_4.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 5/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/4fd4be4c-811a-4691-ba35-1df58a84f9f5/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Biologia/res_5/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_5.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 6/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/d3625b1e-d7e6-4538-b99e-bbeef5889f7f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Biologia/res_6/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_6.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 7/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/44661b5c-a947-4313-a23f-203d02e8e61b/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Biologia/res_7/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_7.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 8/8 for Biologia ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/de5d9f33-ed99-4a0a-a1b1-5aab75c54238/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Biologia/res_8/index.html
+  [+] Rendered PDF page: temp_processing/Biologia/page_8.pdf
+  [+] Extracted EPUB content.
+
+[*] Finalizing files for subject: Biologia
+  [SUCCESS] Saved final PDF: final_deliverables/PAU_Biologia_CREA.pdf
+  [SUCCESS] Saved final EPUB: final_deliverables/PAU_Biologia_CREA.epub
+  [+] Cleaned up temporary files for Biologia.
+
+[SUCCESS] Processing for subject Biologia is complete.
+[*] Found 13 resources for subject: Comentario_de_texto
+
+========================================
+[*] Starting processing for subject: Comentario_de_texto
+========================================
+
+--- Processing resource 1/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/3f99d2e8-62af-4ccc-b9d1-71ed266a8b1a/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Comentario_de_texto/res_1/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_1.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 2/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/39d97afb-ea9b-4cf1-abfc-63e25de8406c/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Comentario_de_texto/res_2/ODE-22752101-a965-3d58-ab9b-e36820362219/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_2.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 3/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/7c886c86-1e17-4b3f-abd0-0248246c00ee/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Comentario_de_texto/res_3/ODE-0bf2a98f-7cbb-3a94-b56c-f9e59c1748f6/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_3.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 4/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/6ebfcdab-284b-4d6d-9e18-844e9e0b57f4/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Comentario_de_texto/res_4/ODE-22752101-a965-3d58-ab9b-e36820362219/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_4.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 5/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/38774fcf-d436-42d8-8916-b678921ec442/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Comentario_de_texto/res_5/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_5.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 6/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/0bbc91e0-4843-4dbb-b68f-97ee23bdcfc9/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Comentario_de_texto/res_6/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_6.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 7/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/490f0e8c-52bc-4df9-bcc1-f4a14192e470/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Comentario_de_texto/res_7/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_7.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 8/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/5c10e2e4-6c1a-41d1-a1bc-fe2d01c9c093/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Comentario_de_texto/res_8/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_8.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 9/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/2b5dd617-a120-4259-b9bf-f62b768c7690/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Comentario_de_texto/res_9/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_9.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 10/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/54a5eead-551b-4687-9470-b310c16b93f0/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Comentario_de_texto/res_10/ODE-c35cafff-7cfa-358d-9dec-11b4f19f7ed8/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_10.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 11/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/5c146c5c-2653-4197-90b3-3ef6ce01c98a/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Comentario_de_texto/res_11/ODE-6059b495-89d6-3129-b2a3-c482f8d96071/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_11.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 12/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/fa56dd76-850c-4173-9194-2e43a2578d1d/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Comentario_de_texto/res_12/ODE-99ebc15c-2d49-3cf6-a52e-9c20ddb55336/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_12.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 13/13 for Comentario_de_texto ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/f839c1d3-f4fe-49fa-bc31-dcce74564a99/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Comentario_de_texto/res_13/ODE-c44e8aec-7c1f-3686-8ed5-faaebafd4bec/index.html
+  [+] Rendered PDF page: temp_processing/Comentario_de_texto/page_13.pdf
+  [+] Extracted EPUB content.
+
+[*] Finalizing files for subject: Comentario_de_texto
+  [SUCCESS] Saved final PDF: final_deliverables/PAU_Comentario_de_texto_CREA.pdf
+  [SUCCESS] Saved final EPUB: final_deliverables/PAU_Comentario_de_texto_CREA.epub
+  [+] Cleaned up temporary files for Comentario_de_texto.
+
+[SUCCESS] Processing for subject Comentario_de_texto is complete.
+[*] Found 8 resources for subject: Ingles
+
+========================================
+[*] Starting processing for subject: Ingles
+========================================
+
+--- Processing resource 1/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/0e6236e7-c42e-456e-9f2a-2c81ed71a0d5/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Ingles/res_1/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_1.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 2/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/2c65f27b-e2c0-4c54-9a6e-55763bb12dd6/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Ingles/res_2/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_2.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 3/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/267f182c-76c7-4e41-943c-98874d076163/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Ingles/res_3/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_3.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 4/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/8b9446bc-c644-4972-a4c7-af63acfa35c6/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Ingles/res_4/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_4.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 5/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/3f3f0db4-d1fd-4079-b8ab-cfb8ba467bed/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Ingles/res_5/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_5.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 6/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/ab334305-1cf4-4ed4-a500-17abfb225a6f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Ingles/res_6/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_6.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 7/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/92f1e2f5-8f35-4267-815f-6ccb2baa0d30/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Ingles/res_7/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_7.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 8/8 for Ingles ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/8a1d11aa-0e2b-49ad-b1fa-d013da38e732/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Ingles/res_8/ODE-1466749b-5a97-38ac-9aa8-845cd659ce79/index.html
+  [+] Rendered PDF page: temp_processing/Ingles/page_8.pdf
+  [+] Extracted EPUB content.
+
+[*] Finalizing files for subject: Ingles
+  [SUCCESS] Saved final PDF: final_deliverables/PAU_Ingles_CREA.pdf
+  [SUCCESS] Saved final EPUB: final_deliverables/PAU_Ingles_CREA.epub
+  [+] Cleaned up temporary files for Ingles.
+
+[SUCCESS] Processing for subject Ingles is complete.
+[*] Found 5 resources for subject: Lengua_Castellana
+
+========================================
+[*] Starting processing for subject: Lengua_Castellana
+========================================
+
+--- Processing resource 1/5 for Lengua_Castellana ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/88503e80-fa31-400e-98de-f7bd6763f05e/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Lengua_Castellana/res_1/index.html
+  [+] Rendered PDF page: temp_processing/Lengua_Castellana/page_1.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 2/5 for Lengua_Castellana ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/a1778604-9b22-4dab-aff2-85af60f58746/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Lengua_Castellana/res_2/index.html
+  [+] Rendered PDF page: temp_processing/Lengua_Castellana/page_2.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 3/5 for Lengua_Castellana ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/add6b6ed-2e6a-4f93-a969-5ea4d614876f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Lengua_Castellana/res_3/index.html
+  [+] Rendered PDF page: temp_processing/Lengua_Castellana/page_3.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 4/5 for Lengua_Castellana ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/1ddc173a-e513-4713-a7b6-04faca662779/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Lengua_Castellana/res_4/ODE-0877e789-9673-31e1-a7ed-dd8f328262a4/index.html
+  [+] Rendered PDF page: temp_processing/Lengua_Castellana/page_4.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 5/5 for Lengua_Castellana ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/d8eb5388-7153-4180-a313-a06b916326f3/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Lengua_Castellana/res_5/ODE-c44e8aec-7c1f-3686-8ed5-faaebafd4bec/index.html
+  [+] Rendered PDF page: temp_processing/Lengua_Castellana/page_5.pdf
+  [+] Extracted EPUB content.
+
+[*] Finalizing files for subject: Lengua_Castellana
+  [SUCCESS] Saved final PDF: final_deliverables/PAU_Lengua_Castellana_CREA.pdf
+  [SUCCESS] Saved final EPUB: final_deliverables/PAU_Lengua_Castellana_CREA.epub
+  [+] Cleaned up temporary files for Lengua_Castellana.
+
+[SUCCESS] Processing for subject Lengua_Castellana is complete.
+[*] Found 16 resources for subject: Matematicas
+
+========================================
+[*] Starting processing for subject: Matematicas
+========================================
+
+--- Processing resource 1/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/fec945ec-228c-4fc3-abd7-e20785bc1eb3/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_1/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_1.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 2/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/a8ef6fe6-a4b0-431a-b552-b1f11eb1696f/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_2/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_2.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 3/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/7a363c6a-623d-41f4-92e5-53ff0fb0e256/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_3/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_3.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 4/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/801d77cc-51aa-4420-95a9-eafa616a81b2/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_4/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_4.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 5/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/0f096d0f-0136-4f77-a3e0-96cac7a20c44/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_5/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_5.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 6/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/e916fa4f-83a3-4f19-a0da-04718d873ca7/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_6/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_6.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 7/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/af58181c-4aee-4dae-b532-93a2b28be32c/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_7/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_7.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 8/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/fb6e0f63-b123-4fd3-aa23-766b6668b7ba/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_8/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_8.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 9/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/fe9aa63e-2271-4ace-9e53-fd9fc1d53153/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_9/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_9.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 10/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/2b394477-f8f0-439f-95d3-a1ef47cc464d/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_10/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_10.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 11/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/6548ecff-1203-4f75-b901-8bad39487fb1/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_11/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_11.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 12/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/b99db9a3-41a6-40f1-bbcb-182f5d8a85e0/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_12/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_12.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 13/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/2db44169-b91d-48b5-a1cb-ce26fe7de81c/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_13/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_13.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 14/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/f536b445-7542-4186-a309-d09ea87e61de/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_14/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_14.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 15/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/cf1d848e-a1aa-4c89-89d3-1cde8e454be8/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_15/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_15.pdf
+  [+] Extracted EPUB content.
+
+--- Processing resource 16/16 for Matematicas ---
+  URL: https://edea.juntadeandalucia.es/bancorecursos/items/3a76bf01-376a-4580-9e30-2ea5bc7204b4/1/viewscorm.jsp?.vi=downloadIms&scormtree.download=true
+  [+] Downloaded resource to memory.
+  [*] Extracted to temp path for rendering: temp_processing/Matematicas/res_16/index.html
+  [+] Rendered PDF page: temp_processing/Matematicas/page_16.pdf
+  [+] Extracted EPUB content.
+
+[*] Finalizing files for subject: Matematicas
+  [SUCCESS] Saved final PDF: final_deliverables/PAU_Matematicas_CREA.pdf
+  [SUCCESS] Saved final EPUB: final_deliverables/PAU_Matematicas_CREA.epub
+  [+] Cleaned up temporary files for Matematicas.
+
+[SUCCESS] Processing for subject Matematicas is complete.
